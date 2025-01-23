@@ -1,14 +1,14 @@
 <h1>Hi, I'm Danyal! <br>
-Cloud Computing, Data Analysis, and AI </h1>
+Cloud Generalist, Data Analytics & A.I. student @ UT Dallas </h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Webacy Projects </b>
   - [Cluster Analysis (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Frequency Analysis and Correlation Analysis (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data Labeling (Python & Excel)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Labeling (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Stock Performance</b>
-  - [Analysis and Visualization of Tesla and GameStop Stock Performance (Python)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>☁️ Cloud Projects:</h2>
 
