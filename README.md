@@ -8,8 +8,8 @@ Cloud Generalist, Data Analytics & A.I. student @ UT Dallas </h1>
   - [Frequency Analysis and Correlation Analysis (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Data Labeling (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Stock Performance</b>
-  - [Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)](https://github.com/DRehan003/Analyzing-Stock-Performance-and-building-aDashboard/tree/main)
-
+  - [Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)](https://github.com/DRehan003/Analyzing-Stock-Performance-and-building-a-Dashboard)
+    
 <h2>☁️ Cloud Projects:</h2>
 
   - <b> Amazon Web Services (AWS) </b>
