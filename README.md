@@ -22,7 +22,7 @@ Cloud Generalist, Analytics & A.I. Student @ UT Dallas </h1>
 
 - <a href="https://www.credly.com/badges/afedffa1-c559-4534-b3b3-85663aaf68a3/linked_in_profile"> AWS Certified AI Practitioner </a>
 - <a href="https://www.credly.com/badges/30e44a4b-8f74-49d6-87be-89937bfc0e23/linked_in_profile"> AWS Certified Cloud Practitioner </a>
-- <a href=""> ISC2 Certified in Cybersecurity </a>
+- <a href="https://www.credly.com/earner/earned/badge/1fb5d5cc-a7c8-4e2f-9180-b217ae3074a4"> ISC2 Certified in Cybersecurity </a>
 - <a href="https://www.coursera.org/account/accomplishments/verify/PCD34K4FZTGS">IBM Python for Data Science, AI, and Development </a>
 - <a href="https://courses.edx.org/certificates/43a212c0d7cc43f2aaac4503e2a183e1"> edX Data Analytics Essentials </a>
 
