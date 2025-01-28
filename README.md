@@ -4,18 +4,18 @@ Cloud Generalist, Analytics & A.I. Student @ UT Dallas </h1>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Webacy Projects </b>
-  - [Cluster Analysis (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Frequency Analysis and Correlation Analysis (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data Labeling (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Cluster Analysis (Python)
+  - Frequency Analysis and Correlation Analysis (Python)
+  - Data Labeling (Python)
 - <b>Stock Performance</b>
-  - [Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)](https://github.com/DRehan003/Analyzing-Stock-Performance-and-building-a-Dashboard)
+  - Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)
     
 <h2>☁️ Cloud Projects:</h2>
 
   - <b> Amazon Web Services (AWS) </b>
-    - [Chatbot powered by Amazon Lex](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Themepark Application(coming soon!)
-    - SageMaker Project (coming soon!)
+    - Chatbot powered by Amazon Lex
+    - Themepark Application
+    - SageMaker Project
     - WordPress Website
 
 <h2>📃 Professional Certifications:</h2>
@@ -33,4 +33,3 @@ Cloud Generalist, Analytics & A.I. Student @ UT Dallas </h1>
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
