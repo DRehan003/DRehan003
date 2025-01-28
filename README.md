@@ -1,5 +1,5 @@
 <h1>Hi, I'm Danyal! <br>
-Cloud Generalist, Data Analytics & A.I. student @ UT Dallas </h1>
+Cloud Generalist, Analytics & A.I. Student @ UT Dallas </h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
@@ -14,9 +14,9 @@ Cloud Generalist, Data Analytics & A.I. student @ UT Dallas </h1>
 
   - <b> Amazon Web Services (AWS) </b>
     - [Chatbot powered by Amazon Lex](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Themepark Application](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [SageMaker Project](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [WordPress Website](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Themepark Application(coming soon!)
+    - SageMaker Project (coming soon!)
+    - WordPress Website
 
 <h2>📃 Professional Certifications:</h2>
 
