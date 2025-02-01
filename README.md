@@ -13,7 +13,7 @@ Cloud Generalist, Analytics & A.I. Student @ UT Dallas </h1>
 <h2>☁️ Cloud Projects:</h2>
 
   - <b> Amazon Web Services (AWS) </b>
-    - Web-Integrated chatbot powered by Amazon Lex
+    - Web-Integrated Chatbot powered by Amazon Lex
     - Themepark Application
     - SageMaker Project
     - WordPress Website
