@@ -4,16 +4,16 @@ Cloud Generalist, Analytics & A.I. Student @ UT Dallas </h1>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Webacy Projects </b>
-  - Cluster Analysis (Python)
+  - Cluster Analysis (Python & Unsupervised ML)
   - Frequency Analysis and Correlation Analysis (Python)
-  - Data Labeling (Python)
+  - Data Labeling (Python & Excel)
 - <b>Stock Performance</b>
   - Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)
     
 <h2>☁️ Cloud Projects:</h2>
 
   - <b> Amazon Web Services (AWS) </b>
-    - Chatbot powered by Amazon Lex
+    - Web-Integrated chatbot powered by Amazon Lex
     - Themepark Application
     - SageMaker Project
     - WordPress Website
