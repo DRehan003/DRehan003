@@ -15,8 +15,6 @@ Analytics & A.I. Student @ UT Dallas </h1>
 
   - <b> Amazon Web Services (AWS) </b>
     - Web-Integrated Chatbot powered by Amazon Lex
-    - Themepark Application
-    - SageMaker Project
     - WordPress Website
 
 <h2>📃 Professional Certifications:</h2>
