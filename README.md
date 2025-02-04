@@ -1,5 +1,6 @@
 <h1>Hi, I'm Danyal! <br>
-Cloud Generalist, Analytics & A.I. Student @ UT Dallas </h1>
+Data Analyst, Cloud Generalist <br>
+Analytics & A.I. Student @ UT Dallas </h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
