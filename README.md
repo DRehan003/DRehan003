@@ -5,7 +5,7 @@ Analytics & A.I. Student @ UT Dallas </h1>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Webacy Projects </b>
-  - [Cluster Analysis (Python & Unsupervised ML)](https://github.com/DRehan003/Cluster-Analysis-of-Smart-Contract-Vulnerabilities)
+  - [Cluster Analysis (Python & Unsupervised ML)](https://github.com/DRehan003/Cluster_Analysis_Webacy)
   - Correlation Analysis (Python)
   - [Frequency Analysis (Python & Excel](https://github.com/DRehan003/Frequency_Analysis_Webacy)
 - <b>Stock Performance</b>
