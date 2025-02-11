@@ -6,8 +6,8 @@ Analytics & A.I. Student @ UT Dallas </h1>
 
 - <b> Webacy Projects </b>
   - [Cluster Analysis (Python & Unsupervised ML)](https://github.com/DRehan003/Cluster-Analysis-of-Smart-Contract-Vulnerabilities)
-  - Frequency Analysis and Correlation Analysis (Python)
-  - Data Labeling (Python & Excel)
+  - Correlation Analysis (Python)
+  - [Frequency Analysis (Python & Excel](https://github.com/DRehan003/Frequency_Analysis_Webacy)
 - <b>Stock Performance</b>
   - Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)
     
