@@ -16,6 +16,11 @@ Analytics & A.I. Student @ UT Dallas </h1>
   - <b> Amazon Web Services (AWS) </b>
     - Web-Integrated Chatbot powered by Amazon Lex
     - WordPress Website
+   
+<h2> 🏫 College Labs: </h2>
+
+- [1336(Programming Fundamentals) Labs](https://github.com/DRehan003/Prgramming_Fundamentals_Labs)
+
 
 <h2>📃 Professional Certifications:</h2>
 
