@@ -9,7 +9,7 @@ Analytics & A.I. Student @ UT Dallas </h1>
   - [Correlation Analysis (Python)](https://github.com/DRehan003/Correlation_Analysis_Webacy)
   - [Frequency Analysis (Python & Excel)](https://github.com/DRehan003/Frequency_Analysis_Webacy)
 - <b>Stock Performance</b>
-  - Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)
+  - [Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)](https://github.com/DRehan003/Analysis_And_Visualization_Of_Stock_Performance)
     
 <h2>☁️ Cloud Projects:</h2>
 
