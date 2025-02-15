@@ -5,21 +5,21 @@ Analytics & A.I. Student @ UT Dallas </h1>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b> Webacy Projects </b>
-  - [Cluster Analysis (Python & Unsupervised ML)](https://github.com/DRehan003/Cluster_Analysis_Webacy)
-  - [Correlation Analysis (Python)](https://github.com/DRehan003/Correlation_Analysis_Webacy)
-  - [Frequency Analysis (Python & Excel)](https://github.com/DRehan003/Frequency_Analysis_Webacy)
+  - [Cluster Analysis](https://github.com/DRehan003/Cluster_Analysis_Webacy) (Python & Unsupervised ML)
+  - [Correlation Analysis](https://github.com/DRehan003/Correlation_Analysis_Webacy) (Python)
+  - [Frequency Analysis](https://github.com/DRehan003/Frequency_Analysis_Webacy) (Python & Excel)
 - <b>Stock Performance</b>
-  - [Analysis and Visualization of Tesla and GameStop Stock Performance (Python & Webscraping)](https://github.com/DRehan003/Analysis_And_Visualization_Of_Stock_Performance)
+  - [Analysis and Visualization of Tesla and GameStop Stock Performance](https://github.com/DRehan003/Analysis_And_Visualization_Of_Stock_Performance) (Python & Webscraping)
     
 <h2>☁️ Cloud Projects:</h2>
 
   - <b> Amazon Web Services (AWS) </b>
-    - [Web-Integrated Chatbot (Lex, Lambda, S3, Cloudwatch, IAM)](https://github.com/DRehan003/Danyals_Restaurant_Chatbot)
-    - [WordPress Website (Beanstalk, RDS, EFS)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html)
+    - [Web-Integrated Chatbot](https://github.com/DRehan003/Danyals_Restaurant_Chatbot) (Lex, Lambda, S3, Cloudwatch, IAM)
+    - [WordPress Website](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html) (Beanstalk, RDS, EFS)
    
 <h2> 🏫 University Labs: </h2>
 
-- [1336(Programming Fundamentals) Labs](https://github.com/DRehan003/Prgramming_Fundamentals_Labs)
+- [1336 (Programming Fundamentals) Labs](https://github.com/DRehan003/Prgramming_Fundamentals_Labs)
 
 
 <h2>📃 Professional Certifications:</h2>
