@@ -32,11 +32,13 @@ Analytics & A.I. Student @ UT Dallas </h1>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DanyalRehan | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/circle.svg" />][Website]
+[<img align="left" alt="DanyalRehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DanyalRehan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[youtube]: https://www.youtube.com/@danyalrehan
+[Website]: 
 [linkedin]: https://www.linkedin.com/in/danyal-rehan/
+[youtube]: https://www.youtube.com/@danyalrehan
 
 
 <!--
