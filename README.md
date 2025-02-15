@@ -15,9 +15,9 @@ Analytics & A.I. Student @ UT Dallas </h1>
 
   - <b> Amazon Web Services (AWS) </b>
     - [Web-Integrated Chatbot powered by Amazon Lex](https://github.com/DRehan003/Danyals_Restaurant_Chatbot)
-    - WordPress Website
+    - [WordPress Website](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html)
    
-<h2> 🏫 College Labs: </h2>
+<h2> 🏫 University Labs: </h2>
 
 - [1336(Programming Fundamentals) Labs](https://github.com/DRehan003/Prgramming_Fundamentals_Labs)
 
