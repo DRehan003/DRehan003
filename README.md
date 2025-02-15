@@ -14,7 +14,7 @@ Analytics & A.I. Student @ UT Dallas </h1>
 <h2>☁️ Cloud Projects:</h2>
 
   - <b> Amazon Web Services (AWS) </b>
-    - [Web-Integrated Chatbot](https://github.com/DRehan003/Danyals_Restaurant_Chatbot) (Lex, Lambda, S3, Cloudwatch, IAM)
+    - [Web-Integrated Restaurant Chatbot](https://github.com/DRehan003/Danyals_Restaurant_Chatbot) (Lex, Lambda, S3, Cloudwatch, IAM)
     - [WordPress Website](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html) (Beanstalk, RDS, EFS)
    
 <h2> 🏫 University Labs: </h2>
@@ -32,10 +32,11 @@ Analytics & A.I. Student @ UT Dallas </h1>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Danyal Rehan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[youtube]: https://www.youtube.com/@danyalrehan4540
 [linkedin]: www.linkedin.com/in/danyal-rehan
-
 
 
 <!--
