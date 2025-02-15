@@ -32,8 +32,10 @@ Analytics & A.I. Student @ UT Dallas </h1>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Danyal Rehan | LinkedIn" width="22px" src="www.linkedin.com/in/danyal-rehan"/>][linkedin]
+[<img align="left" alt="Danyal Rehan| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: www.linkedin.com/in/danyal-rehan
+
+
 
 <!--
