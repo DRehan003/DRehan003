@@ -14,8 +14,8 @@ Analytics & A.I. Student @ UT Dallas </h1>
 <h2>☁️ Cloud Projects:</h2>
 
   - <b> Amazon Web Services (AWS) </b>
-    - [Web-Integrated Chatbot powered by Amazon Lex](https://github.com/DRehan003/Danyals_Restaurant_Chatbot)
-    - [WordPress Website](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html)
+    - [Web-Integrated Chatbot (Lex, Lambda, S3, Cloudwatch, IAM)](https://github.com/DRehan003/Danyals_Restaurant_Chatbot)
+    - [WordPress Website (Beanstalk, RDS, EFS)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html)
    
 <h2> 🏫 University Labs: </h2>
 
